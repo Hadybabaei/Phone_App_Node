@@ -1,0 +1,7 @@
+{
+    "name":"Phone-App",
+    "db":{
+        "address":"mongodb://localhost:27017/phoneapp"
+    },
+    "jwt_key": "sdfjhj234t2fwd0982i34rf23feoijf042SDF"
+}

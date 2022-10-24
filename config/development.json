@@ -1,0 +1,6 @@
+{
+    "name":"Phone-App",
+    "dbUri":"mongodb://localhost:27017/phoneapp",
+    "port":3000,
+    "jwt_key": "sdfjhj234t2fwd0982i34rf23feoijf042SDF"
+}
